@@ -1,0 +1,13 @@
+/* AUTOMATICALLY GENERATED ON Tue Apr 04 17:48:34 CDT 2017*/
+/* DO NOT EDIT */
+
+grant {
+  permission java.security.AllPermission;
+};
+
+grant codeBase "file:*" {
+  permission java.security.AllPermission;
+};
+grant codeBase "file:/Users/Nacho/Documents/workspaceJ/RMIhw/src" {
+    permission java.security.AllPermission;
+};
